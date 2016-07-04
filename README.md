@@ -25,11 +25,6 @@
 * [jikasei.me/font/mgenplus/](http://jikasei.me/font/mgenplus/)
   * M+ 比で使える漢字が増えるので M+ 1mn に満足しているならきっと気に入るはず
 
-### Ricty
-
-* [github.com/yascentur/Ricty](https://github.com/yascentur/Ricty)
-  * 言わずと知れた有名どころですね。スクリプトのみです
-
 ### MyricaM
 
 * [myrica.estable.jp/myricamhistry/](http://myrica.estable.jp/myricamhistry/)
